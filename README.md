@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Anastasiia-Chikrizova/Anastasiia-Chikrizova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Anastasiia from Kyiv, Ukraine 🇺🇦
 
-Here are some ideas to get you started:
+I’m currently transitioning into the world of DevOps, after working as a frontend developer for the past 4 years. My background is mainly in React, with a focus on building user-facing applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm learning DevOps because I'm genuinely curious about how code gets deployed to production — I want to understand the full lifecycle of software delivery, be on the same page with DevOps engineers, and be able to handle more things on my own.
+
+## 💼 Background
+
+- 🖥 4 years of experience as a Frontend Developer
+- 🔧 Currently studying DevOps (CI/CD, Docker, Kubernetes, etc.)
+- 🎯 Goal: build a strong understanding of deployment pipelines and infrastructure
+
+## 📫 Let's connect
+
+- GitHub: [Anastasiia-Chikrizova](https://github.com/Anastasiia-Chikrizova)
